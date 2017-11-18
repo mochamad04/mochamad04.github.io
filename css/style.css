@@ -631,6 +631,7 @@ contact
 #footer
 {
     padding: 20px 0px;
+    background: rgba(64,75,97, 0.9);
 }
 .scrollToTop {
     position: fixed;
